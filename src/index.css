@@ -1,0 +1,15 @@
+*{
+  font-family: 'Fira Code',monospace;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0px;
+  padding: 0ox;
+}
+body{
+  overflow-x: hidden;
+  background-color: rgba(255, 0, 0, 0.295);
+  width: 100%;
+  height: 100%;
+}
